@@ -2,6 +2,14 @@
   <img src="banner.png" width="100%" alt="Abhi's Local Chatbot Banner"/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-App-red?logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-Local%20LLM-black?logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Working-success?logo=github" />
+</p>
+
+
 # 🤖 Abhi's Local Chatbot (Streamlit + Ollama)
 
 A simple **ChatGPT-style chatbot** that runs 100% locally on your computer using **Streamlit** for the UI and **Ollama** for the AI model.
