@@ -23,4 +23,9 @@ pip install -r requirements.txt
 
 ![Chatbot Screenshot](screenshot.png)
 
+<p align="center">
+  <img src="banner.png" width="100%" alt="Abhi's Local Chatbot Banner"/>
+</p>
+
+
 
