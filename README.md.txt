@@ -14,4 +14,13 @@ A simple **ChatGPT-style chatbot** that runs 100% locally on your computer using
 
 ---
 
+## 🚀 Getting Started
+
+### 1️⃣ Install Requirements
+```bash
+pip install -r requirements.txt
+
+
+![Chatbot Screenshot](screenshot.png)
+
 
